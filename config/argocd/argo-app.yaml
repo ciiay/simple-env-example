@@ -32,7 +32,7 @@ spec:
   project: default
   source:
     path: config/argocd
-    repoURL: https://github.com/ciiay/gitops.git
+    repoURL: https://github.com/ciiay/simple-env-example.git
   syncPolicy:
     automated:
       prune: true

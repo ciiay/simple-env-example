@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: environments/dev/
-    repoURL: https://github.com/ciiay/gitops.git // to be replaced
+    repoURL: https://github.com/ciiay/simple-env-example.git
   syncPolicy:
     automated:
       prune: true

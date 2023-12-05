@@ -13,7 +13,7 @@ spec:
   project: default
   source:
     path: environments/stage/apps/app-taxi/services/config
-    repoURL: https://github.com/ciiay/gitops.git  // to be replaced
+    repoURL: https://github.com/ciiay/simple-env-example.git
   syncPolicy:
     automated:
       prune: true
