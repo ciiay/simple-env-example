@@ -1,4 +1,4 @@
-namespace: dev
+namespace: stage
 resources:
 - namespace.yaml
 - apps/app-taxi/services/config
