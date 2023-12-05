@@ -10,7 +10,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: environments/dev/
+    path: environments/dev/env/
     repoURL: https://github.com/ciiay/simple-env-example.git
   syncPolicy:
     automated:
